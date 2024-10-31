@@ -1,6 +1,7 @@
 {
   "name": "sorting-visualizer",
   "version": "0.1.0",
+  "homepage": "https://m0hit04.github.io/Sorting-Visualizer",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
